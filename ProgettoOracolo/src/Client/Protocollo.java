@@ -1,4 +1,4 @@
-package client;
+package Client;
 
 /**
  * Costanti del protocollo. Ogni messaggio e' una riga del tipo:

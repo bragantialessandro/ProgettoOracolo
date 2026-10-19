@@ -1,4 +1,4 @@
-package client;
+package Client;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
